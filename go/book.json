@@ -1,0 +1,65 @@
+{
+    "genres": [
+      {
+        "name": "Science Fiction",
+        "books": [
+          {
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "year_of_release": 1965
+          },
+          {
+            "title": "Neuromancer",
+            "author": "William Gibson",
+            "year_of_release": 1984
+          }
+        ]
+      },
+      {
+        "name": "Fantasy",
+        "books": [
+          {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "year_of_release": 1937
+          },
+          {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "year_of_release": 1997
+          }
+        ]
+      },
+      {
+        "name": "Mystery",
+        "books": [
+          {
+            "title": "The Hound of the Baskervilles",
+            "author": "Arthur Conan Doyle",
+            "year_of_release": 1902
+          },
+          {
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "year_of_release": 2012
+          }
+        ]
+      },
+      {
+        "name": "Non-Fiction",
+        "books": [
+          {
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "year_of_release": 2011
+          },
+          {
+            "title": "Educated",
+            "author": "Tara Westover",
+            "year_of_release": 2018
+          }
+        ]
+      }
+    ]
+  }
+  
